@@ -1,0 +1,30 @@
+
+
+#Logo{
+	
+	transform: translate(10px,5px);
+	position: fixed;
+	width: 60px;
+}
+
+#slogan{
+	transform: translate(85px,-10px);
+	font-size: 30px;
+}
+
+body {
+	font-family: 'Lobster', cursive;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+h1, h3{
+
+	text-align: center;
+}
+
