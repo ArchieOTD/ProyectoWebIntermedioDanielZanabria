@@ -12,6 +12,10 @@
 	font-size: 30px;
 }
 
+.contenidotexto{
+	color: lightblue;
+}
+
 body {
 	font-family: 'Lobster', cursive;
     display: flex;
